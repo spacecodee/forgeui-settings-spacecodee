@@ -10,3 +10,9 @@
 - WORKSPACE_EMBEDDINGS = "your-path"
 - WORKSPACE_CONTROL_NETS = "your-path"
 - PATH_TO_INSTALL = "your-path"
+
+## Linking paths in linux
+ln -s "Path/Contains/Data/You/Need" "PAth/Where/To/Link"
+
+## unlinking
+unlink "PAth/Where/You/Linked"
